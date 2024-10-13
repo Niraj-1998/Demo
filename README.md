@@ -1,3 +1,4 @@
 # demo
-This is a demo repository
-Author - Niraj Gupta
+This is a demo repository.
+<br>
+Author - Niraj Gupta.
